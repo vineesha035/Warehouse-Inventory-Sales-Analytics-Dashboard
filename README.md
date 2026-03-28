@@ -1,7 +1,6 @@
 # Warehouse-Inventory-Analytics-Dashboard
 
-View the Dashboard on Tableau:  
-*https://public.tableau.com/views/WarehouseInventoryAnalyticsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+
 
 # Project Overview & Objectives
 
